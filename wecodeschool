@@ -85,7 +85,7 @@
         </div>
       </div>
       <small>
-      <a href="" target="_blank">Open-source code</a> by Martina Bartoli
+      <a href="https://github.com/mbartoli87/myawsomeapp.git" target="_blank">Open-source code</a> by Martina Bartoli
       </small>
     </div>
     <script src="src/index.js"></script>
